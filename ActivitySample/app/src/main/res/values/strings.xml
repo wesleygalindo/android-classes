@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">ActivitySample</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_tela2">Tela2</string>
-    <string name="open_tela2">Abrir Tela 2 passando String</string>
-    <string name="open_tela_object">Abrir Tela 2 passando Objeto</string>
-</resources>

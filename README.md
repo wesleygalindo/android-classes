@@ -1,2 +1,2 @@
 # android-classes
-Repository with code samples used in Android Classes
+Repositório com o código desenvolvido durante as Aulas de Android

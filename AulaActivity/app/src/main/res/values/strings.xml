@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AulaActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tela2">Tela2Activity</string>
+    <string name="abrir_tela2">Abrir Tela 2</string>
+</resources>
