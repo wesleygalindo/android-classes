@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AulaMapaHttpJson</string>
+    <string name="open_map">Abrir Mapa</string>
+    <string name="title_activity_mapa">MapaActivity</string>
+</resources>
