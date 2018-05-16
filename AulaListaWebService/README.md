@@ -2,7 +2,7 @@ Listando dados de um WebService local
 ==============
 Exemplo de código listando dados de um [Stub WebService] e adiciando a um list view customizado.
 
-![Lista](imgs/img1.jpg) ![Detalhes](imgs/img2.jpg)
+<img src="imgs/img1.jpg" width="30%" height="30%"> <img src="imgs/img2.jpg" width="30%" height="30%">
 
 ### Rodando a aplicação:
 1. Baixar o [Stub WebService] e rodar localmente;
