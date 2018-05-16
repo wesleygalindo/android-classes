@@ -11,6 +11,6 @@ http://127.0.0.1:8882
 http://127.0.0.1:8889
 
 
-   [App Android]: <https://github.com/wesleygalindo/android-classes/>
+   [App Android]: <https://github.com/wesleygalindo/android-classes/tree/master/AulaListaWebService>
    [Node.js]: <https://nodejs.org/en/>
    [Stub]: <https://www.npmjs.com/package/stubby>

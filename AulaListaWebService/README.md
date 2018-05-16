@@ -1,4 +1,4 @@
-Listando dados de um WebService
+Listando dados de um WebService local
 ==============
 Exemplo de código listando dados de um [Stub WebService] e adiciando a um list view customizado.
 
@@ -14,5 +14,5 @@ Exemplo de código listando dados de um [Stub WebService] e adiciando a um list 
 
    [Picasso]: <http://square.github.io/picasso/>
    [Retrofit]: <http://square.github.io/retrofit/>
-   [Stub WebService]: <https://github.com/wesleygalindo/android-classes/>
+   [Stub WebService]: <https://github.com/wesleygalindo/android-classes/tree/master/ServidorAulaAndroid>
 
