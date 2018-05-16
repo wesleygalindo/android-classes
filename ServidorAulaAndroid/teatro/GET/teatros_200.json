@@ -1,0 +1,135 @@
+[
+  {
+    "nome": "Teatro do Parque",
+    "bairro": "Boa Vista",
+    "logradouro": "Rua do Hospício. 81 ",
+    "longitude": "-34.884742",
+    "Telefone": "(81)33551553",
+    "latitude": "-8.061976",
+    "_id": 1,
+    "img_url": "http://1.bp.blogspot.com/-kzXBStWUrU4/VdsOjcgRNSI/AAAAAAAAaX0/LlHjoTsru8M/s1600/TeatroParqueLEOMOTTA-grandedentro.jpg",
+    "descricao": "Completado 100 anos em 2015 o teatro se encontra fechado para obras desde 2014 com previsão para voltar a funcionar em Novembro de 2016."
+  },
+  {
+    "nome": "Teatro Barreto Júnior",
+    "bairro": "Pina",
+    "logradouro": "Endereço: Rua Estudante Jeremias Bastos. s/n",
+    "longitude": "-34.884095",
+    "Telefone": "(81) 33556398  / 33556399",
+    "latitude": "-8.090579",
+    "_id": 2,
+    "img_url": "http://3.bp.blogspot.com/-Rx4mXUmuVVA/VpYqjaQHY7I/AAAAAAAAbGQ/C6yTcXrGYsY/s640/Teatro%2BBarreto%2BJunior%2Binicia%2Bcursos%2Bde%2BFrevo%2Bpara%2Badolescentes%2Be%2Badultos.jpg",
+    "descricao": "Primeiro teatro da zona sul da cidade local onde funcionava o CineAtlântico recebe espetáculos internacionais e festivais de dança locais."
+  },
+  {
+    "nome": "Teatro de Santa Isabel",
+    "bairro": "Santo Antonio",
+    "logradouro": "Praça da República - s/n",
+    "longitude": "-34.878138",
+    "Telefone": "(81) 3355.3323 /  33553324",
+    "latitude": "-8.060693",
+    "_id": 3,
+    "img_url": "http://www.cbnrecife.com/thumbs.php?src=_cms/_pics/984e534764546d19.jpg&w=605&zc=2",
+    "descricao": "Primeiro e mais expressivo exemplar de arquitetura neoclássica em Pernambuco idealizado por Francisco do Rego Barros atualmente proporciona visitas guiadas e concertos da Orquestra Sinfônica do Recife além de espetáculos com temáticas variadas."
+  },
+  {
+    "nome": "Teatro Apolo",
+    "bairro": "Recife",
+    "logradouro": "Rua do Apolo 121",
+    "longitude": "-34.872534",
+    "Telefone": "(81) 33553320 / 33553321",
+    "latitude": "-8.061439",
+    "_id": 4,
+    "img_url": "http://arteref.com/wp-content/uploads/2016/08/34038_25959.jpg",
+    "descricao": "Com fachada em mármore de Lisboa o teatro integra o Centro de Formações e Pesquisas das Artes Cênicas ApoloHermilo. Estilo Neoclássio"
+  },
+  {
+    "nome": "Teatro Hermilo Borba Filho",
+    "bairro": "Recife",
+    "logradouro": "Cais do Apolo s/n",
+    "longitude": "-34.872795",
+    "Telefone": "(81) 33553320 / 33553321",
+    "latitude": "-8.06183",
+    "_id": 5,
+    "img_url": "http://www2.recife.pe.gov.br/wp-content/uploads/TEATRO-HERMILO-BORBA-IF.jpg",
+    "descricao": "A partir da adaptação de dois armazéns que ficavam nos fundos do Teatro Apolo surge o teatro Hermilo Borba Filho com espaço de configuração flexível permitindo ajustes de suas arquibancadas em função do espetáculo. Possui programação com preços populares."
+  },
+  {
+    "nome": "Teatro Luiz Mendonça",
+    "bairro": "Boa Viagem",
+    "logradouro": "Av. Boa Viagem s/n",
+    "longitude": "-34.903683",
+    "Telefone": "(81) 33559821 / 33559823",
+    "latitude": "-8.141965",
+    "_id": 6,
+    "img_url": "https://catracalivre.com.br/wp-content/uploads/2013/11/teatro-luiz-mendonca.jpg",
+    "descricao": "Instalado no Parque Dona Lindu bairro de Boa Viagem o teatro é um dos mais recentes da capital pernambucana e possui um sistema reversível possibilitando funcionamento tanto para a área interna quanto para a esplanada em casos de apresentações ao ar livre."
+  },
+  {
+    "nome": "Teatro Boa Vista",
+    "bairro": "Boa Vista",
+    "logradouro": "R. Dom Bôsco 551",
+    "longitude": "-34.8935803",
+    "Telefone": "(81) 21295961",
+    "latitude": "-8.0605756",
+    "_id": 7,
+    "img_url": "http://www.turismonorecife.com.br/sites/default/files/teatro_da_boa_vista_3_0.jpg",
+    "descricao": "Criado em 2010 nas dependências do Colégio Salesiano o Teatro Boa Vista dispõe de 800 lugares para o público e recebe festivais de dança e peças infantis nacionais."
+  },
+  {
+    "nome": "Teatro Arraial",
+    "bairro": "Boa Vista",
+    "logradouro": "R. da Aurora 457",
+    "longitude": "-34.8803492",
+    "Telefone": "(81) 31843057",
+    "latitude": "-8.0599357",
+    "_id": 8,
+    "img_url": "http://www.cultura.pe.gov.br/wp-content/uploads/2015/01/Teatro-Arraial_FotoCOSTA-NETO-baixa.jpg",
+    "descricao": "Localizado na Rua da Aurora O Teatro Arraial Ariano Suassuna é um equipamento de pequeno porte com apenas 94 poltronas e dois camarins. Em seu acervo o espaço conta com 150 fonogramas para utilização nos espetáculos e possui programação variada destinada a um público de todas as idades."
+  },
+  {
+    "nome": "Teatro Valdemar Oliveira",
+    "bairro": "Soledade",
+    "logradouro": "Praça Osvaldo Cruz 412",
+    "longitude": "-34.8914722",
+    "Telefone": "(81) 32221200 / 32221284",
+    "latitude": "-8.055285",
+    "_id": 9,
+    "img_url": "http://s03.video.glbimg.com/x720/4101870.jpg",
+    "descricao": "No bairro da Soledade o Teatro Valdemar Oliveira é um espaço moderno de médio porte muito utilizado para peças infantis."
+  },
+  {
+    "nome": "Teatro Marco Camarotti",
+    "bairro": "Santo Amaro",
+    "logradouro": " R. Treze de Maio 455 ",
+    "longitude": "-34.8818494",
+    "Telefone": "(81) 32161728",
+    "latitude": "-8.0496014",
+    "_id": 11,
+    "img_url": "http://www.satisfeitayolanda.com.br/blog/wp-content/uploads/2014/03/noitedospalha%C3%A7os.jpg",
+    "descricao": "Pertencente ao Sesc Santo Amaro o Teatro Marco Camarotti é ativo e possui programação variada contemplando públicos de todas as idades."
+  },
+  {
+    "nome": "Teatro Joaquim Cardozo",
+    "bairro": "Madalena",
+    "logradouro": "R. Benfica 157",
+    "longitude": "-34.901732",
+    "Telefone": "(81) 21267388",
+    "latitude": "-8.0600654",
+    "_id": 12,
+    "img_url": "https://catracalivre.com.br/wp-content/uploads/2013/09/Teatro_Joaquim_Cardosook.jpg",
+    "descricao": "No Casarão do Centro Cultural Benfica bairro da Madalena o teatro possui apenas 50 lugares com o intuito de oferecer um contato maior entre artista e público."
+  },
+  {
+    "nome": "Teatro Rio Mar",
+    "bairro": "Pina",
+    "logradouro": "Av. República do Líbano 251",
+    "longitude": "-34.89483",
+    "Telefone": "",
+    "latitude": "-8.0861186",
+    "_id": 13,
+    "img_url": "http://soleassociados.com.br/wp-content/uploads/2015/03/teatro-riomar-recife-01.jpg",
+    "descricao": "Pertencente ao Shopping Rio Mar o teatro possui capacidade para 696 espectadores e conta com equipamentos e sistemas de áudio e iluminação de alta qualidade. É acessível para cadeirantes e pessoas com dificuldade de locomoção."
+  }
+
+]

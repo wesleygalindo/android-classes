@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/img_teatro"
+        android:layout_width="100dp"
+        android:layout_height="160dp"
+        android:scaleType="centerCrop"
+        android:layout_marginRight="10dp"/>
+
+    <TextView
+        android:id="@+id/nome_teatro"
+        android:textStyle="bold"
+        android:layout_toRightOf="@id/img_teatro"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/desc_teatro"
+        android:layout_toRightOf="@id/img_teatro"
+        android:layout_below="@id/nome_teatro"
+        android:maxLines="3"
+        android:ellipsize="end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/endereco_teatro"
+        android:layout_toRightOf="@id/img_teatro"
+        android:layout_below="@id/desc_teatro"
+        android:maxLines="2"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

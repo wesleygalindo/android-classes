@@ -1,0 +1,42 @@
+[
+  
+  {
+    "request": {
+      "url": "^/teatros$",
+      "method": "GET"
+    },
+    "response": {
+    "latency": 2000,
+      "status": 200,      
+      "file": "teatro/GET/teatros_200.json"
+    }
+  },
+
+  {
+    "request": {
+      "url": "^/teatros/([1-9][0-9]*)$",
+      "method": "GET"
+    },
+    "response": {
+    "latency": 2000,
+      "status": 200,      
+      "file": "teatro/GET/teatro_200.json"
+    }
+  },
+
+  {
+    "request": {
+      "url": "^/teatro$",      
+      "file": "teatro/POST/req_teatro_200.json",
+      "method": "POST"
+    },
+    "response": {
+    "latency": 2000,
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "file": "teatro/POST/resp_teatro_200.json"
+    }
+  }
+]
