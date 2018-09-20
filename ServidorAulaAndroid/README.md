@@ -1,4 +1,4 @@
-[Stub] server em [Node.js] utilizando para alimentar a [App Android]
+[Stub] server em [Node.js] utilizando para alimentar a [App Mobile]
 ==============
 
 1. Instalacao do framework:
