@@ -1,11 +1,11 @@
-[Stub] server em [Node.js] utilizando para alimentar a [App Android]
+[Stub] server em [Node.js] utilizando para alimentar a [App Mobile]
 ==============
 
 1. Instalacao do framework:
 `npm install`
 2. Para rodar o servidor:
 `npm start`
-3. Acesso ao servico (utilizado pela app Android):
+3. Acesso ao servico (utilizado pela app Mobile):
 http://127.0.0.1:8882
 4. Acesso ao servico admin (permite visualizar no browser os detalhes da api)
 http://127.0.0.1:8889
