@@ -3,7 +3,7 @@
     "request": {
       "url": "^/authentication$", 
       "headers": {
-          "Content-Type": "application/json",
+          "Content-Type": "application/json"
         },       
       "json": "{\"login\":\"admin@gmail.com\",\"password\":\"123456\"}",
       "method": "POST"
