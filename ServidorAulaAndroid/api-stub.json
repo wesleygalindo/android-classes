@@ -1,4 +1,19 @@
 [
+  {
+    "request": {
+      "url": "^/authentication$", 
+      "headers": {
+          "Content-Type": "application/json",
+        },       
+      "json": "{\"login\":\"admin@gmail.com\",\"password\":\"123456\"}",
+      "method": "POST"
+    },
+    "response": {
+      "latency": 2000,
+      "status": 200,      
+      "file": "authentication/POST/authentication_200.json"
+    }
+  },
   
   {
     "request": {
@@ -38,5 +53,20 @@
       },
       "file": "teatro/POST/resp_teatro_200.json"
     }
+  },
+  {
+    "request": {
+      "url": "^/produtos$",      
+      "method": "GET"
+    },
+    "response": {
+    "latency": 2000,
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "file": "produto/GET/produtos_200.json"
+    }
   }
+
 ]

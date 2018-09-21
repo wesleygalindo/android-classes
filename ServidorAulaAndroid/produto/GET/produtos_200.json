@@ -1,0 +1,21 @@
+[
+  {
+    "nome": "Coca cola",
+    "descricao": "descricao da coca cola",
+    "_id": 1,
+    "img_url": "http://"
+  },
+  {
+    "nome": "Fanta",
+    "descricao": "descricao da fanta",
+    "_id": 2,
+    "img_url": "http://"
+  },
+  {
+    "nome": "Pepsi",
+    "descricao": "descricao da Pepsi",
+    "_id": 3,
+    "img_url": "http://"
+  }
+  
+]
